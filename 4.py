@@ -6,3 +6,4 @@ print('zatwierdzam')
 print('zatw')
 print('zatwewewew')
 test 76665544
+wwwwwwdwddwdwd
